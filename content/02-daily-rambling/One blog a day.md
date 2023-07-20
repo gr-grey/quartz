@@ -1,6 +1,8 @@
 ---
 title: "One blog a day"
 date: "2023-07-19"
+tags:
+- daily rambling
 ---
 
 I want to build a habit of putting out one blog everyday.

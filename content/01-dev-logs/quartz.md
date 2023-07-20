@@ -1,5 +1,7 @@
 ---
 title: "quartz"
+tags:
+- dev log
 ---
 
 Log what I have done to use quartz as my new site.
