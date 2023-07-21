@@ -25,7 +25,7 @@ while [[Kevin Kelly]] once said "trust me, there is no THEM".
 I think the ultimate *them*, might be death, or the killing force going against all DNA/ RNA based living organisms.
 It's all of us, all living things, against entropy.
 
-If it seems odd to equivalent entropy to death, maybe consider the "information theory of aging" brought up by [[David Sinclair]] in his book *Lifespan: why we age and why we don't have to*, in which he contributes aging to the loss of epigenetic information over noise - without the correct epigenetic information, cells start to lose their identity, a brain cell starts to act like partially skin cell, and that's leads to all sorts of malfunction and the body falling apart, and we call it aging.
+If it seems odd to equivalent entropy to death, maybe consider the "information theory of aging" brought up by [[David Sinclair]] in his book *Lifespan: why we age and why we don't have to*, in which he contributes aging to the loss of epigenetic information over noise - without the correct epigenetic information, cells start to lose their identity, a brain cell starts to act like partially skin cell, and that leads to all sorts of malfunctions and the body falling apart, and we call it aging.
 
 In a way, the purpose of DNA seems to be to reduce entropy - to construct order from chaos, and construct more order by replicating itself (order) as much as it can.
 
@@ -45,7 +45,7 @@ Yes or no, on or off, 0 or 1, true or false.
 
 There's a saying that God created mankind in his own image. I think we might have also created the world according to our own image - like the 10-based decimal math system we created (look down at our hands), like the binary machines we built.
 
-When I was thinking of the examples, I hesitated to discuss the more controversial ones, like,
+When I was thinking of examples, I hesitated to discuss the more controversial ones, like,
 man or woman.
 
 But Grey, what about non-binary people?
@@ -54,12 +54,12 @@ What about 0.5? What about 0.4999999...
 
 What about Schrödinger's cat? 
 
-I think social concept like gender can be a spectrum, and some people don't feel like they fit in either of the two extreme "buckets"  at the end.
-And we all have first hand experience of "it's not that simple, the world is not black and white", it's like a fifty-thousand shades of gray.
+I think social concept like gender can be a spectrum, and some people don't feel like they fit in either of the two extreme "buckets"  at the ends.
+And we all have first hand experiences of "it's not that simple, the world is not black and white", it's like fifty-thousand shades of gray.
 
-That, I think, is because the world is might also be *fractal*.
+That, I think, is because the world might also be *fractal*.
 
-Fractal (in my college math level of understanding) means self-repeating patterns, it's a plot where no matter how close you zoom in, the patterns are the same - it's scale free.
+Fractal (in my college math level of understanding) means self-repeating patterns, it's a plot where no matter how close you zoom in, the patterns/ shapes are the same - it's scale free.
 
 ![fractal](https://www.hpcwire.com/wp-content/uploads/2014/05/Mandelbrot_400x.jpg)
 
@@ -74,7 +74,7 @@ Actually, fractal means we can divide to infinity, and we'll still have two ends
 Maybe instead of heaven and hell, most of us, most of the time, exist in the middle ground, the limbo that is earth.
 
 P.S.
-I didn't realize what a crazy person this blog might make me look, until after I wrote the whole thing and read it for myself.
+I didn't realize what a crazy person this blog might make me look like, until after I wrote the whole thing and read it myself.
 
 But what's done is done :)
-this is my instinct, and no matter how crazy it sounds, it feels right to me.
+this is my instinct, it's probably wrong, but no matter how crazy it sounds, it feels right to me.
