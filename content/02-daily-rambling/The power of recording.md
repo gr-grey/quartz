@@ -17,8 +17,6 @@ sometimes we get more nervous and screw up.
 
 I heard that once a biomarker becomes a "marker", it becomes less good as a measurement - because people are now aware of it and will try to influence it.
 
-[[paradox]]
-
 It's so weird but true, but *what gets measured gets fixed*.
 
 In Tim Ferriss's book *The Four Hour Body*, he mentioned an example of a guy losing a lot of weight by simply measuring his weight for a year - and he made a deliberate effort to NOT change his life style.
@@ -43,7 +41,7 @@ It'd be helpful to keep a work log, to avoid the empty busyness, to face the bur
 
 It'd be helpful to keep an exercise log, to help hold myself accountable, to make sure I take my daily dose of the best medicine for a healthy, happy life - exercise.
 
-Ditto with a diet log, a book log, a study log (notes), a mood log (journal).
+Ditto with a diet log, a money log, a book log, a study log (notes), a mood log (journal).
 
 I like measuring stuff.
 
