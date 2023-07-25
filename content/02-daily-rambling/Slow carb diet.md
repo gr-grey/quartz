@@ -36,7 +36,7 @@ That's it. That's how you do the slow carb diet.
 		- Beans: lentils, black/ pinto/ red/ soy beans
 		- Vegetables: spinach, mixed veggies (cauliflower, broccoli, brussels sprouts, other cruciferous vegetables), asparagus, peas, green beans, sauerkraut, kimchi
   - Rule #6, one cheat day each week, eat whatever the heck you want, however much you want - eat all the donuts, cookies, oreos, cholate, cheese cakes, ice creams, pancakes, bagels, fruity drinks, pizzas, cinnamon rolls, croissants, have a carbohydrates feast that would make a diabetes shiver. 
-  - No need to track calories, eat if you feel hungry, and if you can't stop eating after feeling full (as I sometimes do), that's some level of food addiction and the problem is deeper. I find that addiction is usually a protecting/ coping mechanism to avoid pain, and it won't go away until I address the deeper problem.
+  - No need to track calories. If you want to keep a food log out of curiosity, go ahead, but it's not necessary. Eat if you feel hungry, and if you can't stop eating after feeling full (as I sometimes do), that's some level of food addiction and the problem is deeper. I find that addiction is usually a protecting/ coping mechanism to avoid pain, and it won't go away until I address the deeper problem.
   
 For more details and information regarding the slow carb diet, go to [Tim's blog](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) or his book *The Four Hour Body*.
 
@@ -46,7 +46,8 @@ For more details and information regarding the slow carb diet, go to [Tim's blog
 - Skip lunch if I don't feel terribly hungry. Stay hydrated and usually I'm fine. If my stomach feels completely empty for some really and files a big complaint, I'll eat some mixed veggies (cauliflower, broccoli, carrots) till it feels better. 
 - Dinner: > 1lb of mixed veggies (broccoli, cauliflower, brussels sprouts, carrots), > 2 cups of beans (lentils and/or black beans) some kimchi.
 
-- *The glorious cheat day*: I go bunkers. I'm relatively new to the diet and I've only had 4 cheat days so far - I'm still trying to figure out how to do this properly without hurting myself - I would eat so much that my head gets dizzy. One time I gained 5lbs the day after - it was glorious.
+- *The glorious cheat day*: I go bunkers. I'm relatively new to the diet and I've only had 4 cheat days so far - I'm still trying to figure out how to do this properly without hurting myself - I would eat so much that my head gets dizzy. 
+	- I am tracking my cheat day in [[01-dev-logs/food log|food log]]. Here's a snapshot of what I eat last cheat day: 5 donuts, 2 black sesame custard snack, 2 bagel with cream cheese, 1 cookie, 1 pretzel knot, 2 scallion pancakes, 1 diet coke, mixed veggie, spicy soup,  beefless bulgogi, 1 pork bun, 6 pieces of fried chicken, fries, salad, pickles, a little beer, half of a tuna roll, 2 eggs, 1 cup spinach, 2/3 cup beans. I gained 5 lbs the day after, it was glorious.
 
 My main problem right now is lentils. 
 I remember tasting it for the first time, I got a pack of [Madras Lentis](https://www.traderjoes.com/home/products/pdp/madras-lentils-048085) and [Steamed Lentis](https://www.traderjoes.com/home/products/pdp/steamed-lentils-090240) from Trader Joe's, and they tasted so good that it scared me.
