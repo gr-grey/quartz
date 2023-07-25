@@ -34,7 +34,7 @@ Some side bars worth mentioning.
 	I find myself always struggling with sticking to one or more things in the routine, or discover new information that make me want to try new things.
 	As a result, this is a constantly changing design of my life.
  
-	For example, I tried one meal a day for some months earlier this year, but have switched to the slow carb diet about a month ago after reading the *4 hour body* by [[Tim Ferriss]]. 
+	For example, I tried one meal a day for some months earlier this year, but have switched to the [[02-daily-rambling/Slow carb diet|Slow carb diet]] about a month ago after reading the *4 hour body* by [[Tim Ferriss]]. 
 	I was running 6 miles a day, 6 days a week (Mon to Sat) for the first half of the year, and have switched to the kettlebell swing, again, after reading [[Tim Ferriss]].
 
 2. Five things that are crucial to me: sleep, diet, exercise, journal, mantra.
