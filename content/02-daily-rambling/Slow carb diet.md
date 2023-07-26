@@ -12,7 +12,7 @@ I find it easier to stick to. I've been on it for about a month now, and I enjoy
 
 ## The rules
 
-1. No sugar. No starchy food. A simple rule of thumb: if it's white, don't eat it (exception: cauliflower). 
+1. No simple sugar (crystallized, cane, powdered sugar). No starchy food. A simple rule of thumb: if it's white, don't eat it (exception: cauliflower). 
 2. Pick a couple of meals and stick to them.
 3. Don't drink calories.
 4. No fruit.
