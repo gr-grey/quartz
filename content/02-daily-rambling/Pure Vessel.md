@@ -15,7 +15,7 @@ Pure Vessel is a character in the game.
 It was created with one purpose, to seal the infection (Radiance) that invades everyone's mind, puts them in a mindless, killing state.
 
 It was made by the White King (a God figure of the world), harnessing the power of the void.
-White Kind made a "vessel" out of the void. A vessel is an entity with a mask and kind of looks like a man.
+The White King made a "vessel" out of the void. A vessel is an entity with a mask and kind of looks like a man.
 It's a container that can seal the infection inside, though itself might get infected overtime.
 
 ![vessels](https://steamuserimages-a.akamaihd.net/ugc/1768198327105912021/C7B7D1D6FBADD04C472A23549824095CE18728D4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
