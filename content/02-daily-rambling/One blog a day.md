@@ -12,7 +12,7 @@ They don't have to be good, in fact I expect most of them to be crappy (like thi
 The point is to get rid of the friction and get into action -
 it's the mental version of "making my bed every morning".
 
-I am recently reading *Tools of Titans* by Tim Ferriss, it's a collection of people Tim has interviewed on his podcast.
+I am recently reading *Tools of Titans* by [[03-my-people/Tim Ferriss|Tim Ferriss]], it's a collection of people Tim has interviewed on his podcast.
 
 In the segment with *Whitney Cummings*, she mentioned for a doing stand-up comedies, "the material is 10% of it".
 

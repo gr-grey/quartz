@@ -5,7 +5,7 @@ tags:
 - daily rambling
 ---
 
-My current diet is the [slow carb diet](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) brought up by [[Tim Ferriss]].
+My current diet is the [slow carb diet](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) brought up by [[03-my-people/Tim Ferriss]].
 
 It's simple and effective.
 I find it easier to stick to. I've been on it for about a month now, and I enjoy it.

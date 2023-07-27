@@ -34,8 +34,8 @@ Some side bars worth mentioning.
 	I find myself always struggling with sticking to one or more things in the routine, or discover new information that make me want to try new things.
 	As a result, this is a constantly changing design of my life.
  
-	For example, I tried one meal a day for some months earlier this year, but have switched to the [[02-daily-rambling/Slow carb diet|Slow carb diet]] about a month ago after reading the *4 hour body* by [[Tim Ferriss]]. 
-	I was running 6 miles a day, 6 days a week (Mon to Sat) for the first half of the year, and have switched to the kettlebell swing, again, after reading [[Tim Ferriss]].
+	For example, I tried one meal a day for some months earlier this year, but have switched to the [[02-daily-rambling/Slow carb diet|Slow carb diet]] about a month ago after reading the *4 hour body* by [[03-my-people/Tim Ferriss]]. 
+	I was running 6 miles a day, 6 days a week (Mon to Sat) for the first half of the year, and have switched to the kettlebell swing, again, after reading [[03-my-people/Tim Ferriss]].
 
 2. Five things that are crucial to me: sleep, diet, exercise, journal, mantra.
 
@@ -47,21 +47,21 @@ Some side bars worth mentioning.
 	I find it stressful if I'm constantly checking the time.
 	It's a sign of me wanting to get out of the thing I am doing, and if that's the case I need to rethink if I am doing the wrong thing.
 
-	I like [[Kevin Kelly]]'s comment that "productivity is for machines, what humans are good at is wasting time".
+	I like [[03-my-people/Kevin Kelly]]'s comment that "productivity is for machines, what humans are good at is wasting time".
 	And I think the [[paradox]] is true that the more you rush, the slower you go.
 
 4. Life is full of edge cases. It might be all about edge cases. 
 
 	Things go wrong pretty much everyday, and that's the fun part.
  
-	I like the idea from [[James Clear]] of treating your daily behaviors as casting votes to validate the type of person you're trying to be.
+	I like the idea from [[03-my-people/James Clear]] of treating your daily behaviors as casting votes to validate the type of person you're trying to be.
 	I don't have to win all the votes, I only need the majority.
 
 	Each day, the focus is to try to show up and cast the vote - especially on the bad days.
 
 5. If you want some thing to happen, crop out a chunk of your time in your day and make it happen.
 
-	Another idea from [[James Clear]] that I like, if you want something to happen, take time to do it, or else you should release yourself from the desire/ fantasy that it's gonna happen *some day*.
+	Another idea from [[03-my-people/James Clear]] that I like, if you want something to happen, take time to do it, or else you should release yourself from the desire/ fantasy that it's gonna happen *some day*.
  
 	> It doesn't make sense to continue wanting something if you're not willing to do what it takes to get it. 
 	> 
@@ -69,7 +69,7 @@ Some side bars worth mentioning.
 	> 
 	> --- James Clear
 
-I love the [A day in my life](https://youtu.be/0m3hGZvD-0s) video by [[Lex Fridman]].
+I love the [A day in my life](https://youtu.be/0m3hGZvD-0s) video by [[03-my-people/Lex Fridman]].
 I borrowed some of his routines, and sometimes when I struggle with sticking to the routine, I'd rewatch his video to gather some strength from it.
 
 Life's short.

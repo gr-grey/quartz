@@ -19,8 +19,8 @@ Live or die, to be or not to be.
 
 Coke or Pepsi, rich or poor, republicans or dems, friends or foes, *us or them*.
 
-[[Robert Sapolsky]] mentioned multiple times in his lecture that we have this instinct of labeling/ dividing/ judging "them and us", 
-while [[Kevin Kelly]] once said "trust me, there is no THEM".
+[[03-my-people/Robert Sapolsky]] mentioned multiple times in his lecture that we have this instinct of labeling/ dividing/ judging "them and us", 
+while [[03-my-people/Kevin Kelly]] once said "trust me, there is no THEM".
 
 I think the ultimate *them*, might be death, or the killing force going against all DNA/ RNA based living organisms.
 It's all of us, all living things, against entropy.

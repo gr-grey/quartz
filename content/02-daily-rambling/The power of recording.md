@@ -7,7 +7,7 @@ tags:
 
 Like photons, we behave differently when observed.
 
-In one of his lectures on behavior biology, [[Robert Sapolsky]] mentioned that flashing a pair of eyes for 0.1s when people are playing games - faster than we are consciously aware of, people cheat less --- you are being watched.
+In one of his lectures on behavior biology, [[03-my-people/Robert Sapolsky]] mentioned that flashing a pair of eyes for 0.1s when people are playing games - faster than we are consciously aware of, people cheat less --- you are being watched.
 
 We all behave differently when there's an audience, an observer.
 
