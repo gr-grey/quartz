@@ -49,4 +49,4 @@ not only to *allow* it, but to *embrace* it.
 
 When chaos arises and things go wrong, it's an invitation to ride the raging wave to destroy, or it can also be a perturbation to the system that reveals new opportunities, or at least, a training session for PFC muscles.
 
-Things are gonna go wrong anyway, but we get to choose (at least after the ultra-fast emotional instinct) how we react to it.
+Things are gonna go wrong anyway whether we allow it or not, but we get to choose (at least after the ultra-fast emotions) how we react to it.
