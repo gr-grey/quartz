@@ -7,7 +7,7 @@ tags:
 
 As if fate would have it, I'm writing this on my cheat day.
 
-I'm following the [[02-daily-rambling/Slow carb diet|slow carb diet]], and Saturday is the scheduled fail day - I eat whatever I want and however much I want.
+I'm following the [[02-daily-rambling/Slow carb diet|slow carb diet]], and Saturday is the scheduled failing day - I eat whatever I want and however much I want.
 
 It's 15:04 right now, and I've eaten more than 3 meals worth of food.
 I had a breakfast, with 2 eggs, 1 cup of black beans, and a cup of spinach.
@@ -30,7 +30,7 @@ I'm not fully sure how I lost the weight.
 I think it took about 3 months of daily exercise (swimming for 1h or running for 1.5h) and some diet control (one meal a day).
 I did a bunch of other things, like weighing food to the grams, recording my weight every day. They might have helped too.
 
-Last October, I would think everyday: imagine how much healthier and happier and how much better life would be if I lose 30 pounds.
+Last October, I would think everyday: imagine how much healthier and happier I'd feel, and how much better life would be if I lose 30 pounds.
 
 Now I am on the other side of it with a slimer body, 
 and instead of enjoying it,
@@ -50,14 +50,14 @@ Carbohydrates are a great tool to release stress, it spikes blood glucose level,
 
 Being stressed can make one more vulnerable to addiction, when met with the food industry's precisely engineered dopamine inducing foods, food addiction can click like lock and key.
 
-It makes sense that being poor would be a risk for obesity - industrialized engineered food is among the cheapest dopamine they can afford.
+It makes sense that being poor would be a risk for obesity - it means higher stress level overall, and industrialized engineered food is among the cheapest dopamine they can afford.
 
 I have seen people in serious life crisis or tremendous stress suddenly put on a lot of weight.
 It might be a protecting mechanism: craving food means there's still something worth chasing in life, and having any source of dopamine is crucial to avoid falling into the deep crevasse of depression.
 
 I think the body's smart, and it's doing the best it can to protect us - depression would be a worse outcome.
 
-I wonder if getting fat, or addiction of any form, or depression, are all symptoms of deeper problems, like our job/ relationship/ family is too toxic for us, or we are insecure or ashamed of our identity, or a lack of self-worth or purpose, or our life is going in the wrong direction, or there are some unhealed mental wounds like trauma.
+I wonder if getting fat, or addiction of any form, or depression, are all symptoms of deeper problems, like our job/ relationship/ family is too toxic for us, or we are insecure or ashamed of our identity, or deep down we feel our life has no purpose, or it's going in the wrong direction, or there are some unhealed mental wounds like trauma.
 
 It's the body's "check engine" light flashing on, it's trying to send us a signal "hey, somethings wrong with our life, maybe take a closer look and find out what the problem is".
 
