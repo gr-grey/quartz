@@ -52,3 +52,9 @@ But knowing that it'll be the last time I am close to Schuylkill (at least for a
 > Thank you for being there as I ran through the darkest days of my life.
 > 
 > Goodbye. I will miss you dearly.
+
+
+![[attachments/Pasted image 20230728210655.png]]
+
+Remember when you went crazy and flooded half of center city?
+Good time.
