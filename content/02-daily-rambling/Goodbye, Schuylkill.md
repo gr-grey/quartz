@@ -31,7 +31,7 @@ I walked a little more than 26 miles.
 I had finished my first marathon along the river, and I didn't want that to be the last one.
 
 Problem is, I hadn't ran a single mile in the past month, so I figured running a full marathon is beyond my capability at this point, but figured I might be able to walk it.
-I can walk a sub 15 min mile, so a total of 6.5 h will do.
+I can walk a mile in about 17 min, so a total of 7.5 h will do.
 
 It was hard and stupid, but it felt like the right thing to do.
 
