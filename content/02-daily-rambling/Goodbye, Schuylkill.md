@@ -41,7 +41,7 @@ But knowing that it'll be the last time I am close to Schuylkill (at least for a
 > Dear Schuylkill,
 > 
 > I may soon forget how to spell your weird ass name,
-> but I want to thank you for the beautiful water and skies and the sceneries of Philadelphia,
+> but I want to thank you for the beautiful water and skies and the sceneries of Philadelphia.
 > 
 > Thank you for the walks and runs and the good times with friends along the trail.
 > 
