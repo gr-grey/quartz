@@ -13,7 +13,7 @@ I walked past the mark for my usual 6 miles run.
 
 I walked past the geese and ducks and birds that survived the winter with me.
 
-I walked past the cemetery and wondered how many people have died without knowing they were capable of running a half marathon.
+I walked past the cemetery where I wondered how many people have died without knowing they were capable of running a half marathon.
 
 I walked up north till I get lost and didn't know where the trail was.
 
