@@ -34,9 +34,9 @@ Last October, I would think everyday: imagine how much healthier and happier I'd
 
 Now I am on the other side of it with a slimer body, 
 and instead of enjoying it,
-I spent way more time in fear, scared that I would going back to being fat again.
+I spent way more time in fear, scared that I would go back to being fat again.
 
-It's but another example of the illusions we tend to have:
+It's yet another example of the illusion we tend to have:
 I'll finally be happy if I \____ , fill in the blank.
 
 Anyway, I went of the topic.
