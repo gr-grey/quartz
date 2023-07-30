@@ -5,6 +5,33 @@ tags:
 - dev log
 ---
 
+## 2023-07-29
+
+I wonder if the body craving more food after being full comes is related with having food shortage in childhood.
+
+My brain learned at a young age that food is scarcity, it's an important resource that we need to stock up, as much as I can.
+
+One day my PFC might be able to rewire it, to convince the body that we are in safe zone now, that there's enough food, and we can stop eating now.
+
+Breakfast: 2 eggs, 1 cup spinach, 1 cup black beans,
+2 KIND peanut butter banana dark chocolate bar,
+2 donuts, 1 bagel with cream cheese,
+1 insomnia cookie, 1 pork bun,
+a few (6 or 7?) bakery snacks,
+strawberries
+
+lunch,
+half of tuna wrap,
+1 chipotle chicken bowl,
+1 slice of pizza, 1 pork bun, 1 cookie,
+1 donut, 1 bagel with cream cheese,
+
+dinner with friends,
+1/4 of the followings:
+dan dan noodles, dry chili chicken, chicken stirred fried rice noodle.
+2 pan fried pork soup buns, 1 shrimp chive dumpling, 1 pumpkin cake.
+1 cookie, 1 granola bar
+
 ## 2023-07-22
 
 Cheat day note: carbohydrates are better when you put in some workouts - strength training, or moving.
