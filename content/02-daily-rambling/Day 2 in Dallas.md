@@ -12,7 +12,7 @@ and instead of being all excited about starting a new life, I feel very tired, a
 It's hard to leave all the comfort and familiarity behind in Philly and start anew.
 I knew where to work, where to exercise, where to get grocery. I knew my apartment.
 
-I knew the weather, the streets, the stores.
+I knew the weather, the streets, the stores and resturants.
 I knew how the city looks, sounds and smells like.
 
 I have people that I love and care deeply there.
