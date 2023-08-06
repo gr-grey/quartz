@@ -33,7 +33,8 @@ Originally really worried because I've been stressed out and emotionally all ove
 Then a bunch of  things went wrong and I felt like I couldn't catch a break.
 I thought today was going to be rough.
 
-But reunited with my old roommate and having fried chicken with her made my week :)
+But reunited with my old roommate and having fried chicken with her made my week 😋
+It was another small yet solid piece of evidence that we as humans hold great power to heal each other with care and love.
 
 And reminding myself to be less judgy also helped.
 
