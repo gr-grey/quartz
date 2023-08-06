@@ -5,6 +5,38 @@ tags:
 - dev log
 ---
 
+## 2023-08-05
+
+2 eggs + veggie  + 1 cup of beans
+
+2 pack of three small cookies,
+1 protein bar,
+1 hot chocolate with milk,
+1 apple,
+
+2 tacos,
+1 orange,
+half a bag of sliced brioche,
+1 bagel with cream cheese,
+2.2 lbs of cherry,
+
+fried chicken plate - half chicken + fries + coleslaw,  
+3/4 of Aldi's triple chocolate cake
+
+---
+
+Note:
+
+I seems to be getting better at this.
+Originally really worried because I've been stressed out and emotionally all over the place after relocated to Dallas this week.
+
+Then a bunch of  things went wrong and I felt like I couldn't catch a break.
+I thought today was going to be rough.
+
+But reunited with my old roommate and having fried chicken with her made my week :)
+
+And reminding myself to be less judgy also helped.
+
 ## 2023-07-29
 
 I wonder if the body craving more food after being full comes is related with having food shortage in childhood.
