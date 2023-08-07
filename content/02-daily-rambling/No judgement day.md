@@ -26,6 +26,7 @@ Ideally, I want no judgement for whatever I do, everything I want to do gets a g
 - want to go down the rabbit hole of deal hunting and buy things that might be useful twice in ten years? good,
 - want to stare at the useless trash I bought on impulses? good,
 - want to play Hollow Knight for 10 hour straight? I'm not sure I can do that, but the thought's fine 😉
+
 I know myself well enough to know it's impossible to completely silence the inner critic, but that's the goal.
 
 I want some peace and rest instead of feeling pushed to chase after some indescribable destination called purpose.

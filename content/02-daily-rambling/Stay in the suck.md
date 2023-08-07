@@ -52,7 +52,7 @@ Maybe the devil/ enemy is indeed inside of us.
 I like the title of the famous paper that started the *Transformer* AI architecture - *Attention is all you need*, and sometimes I think attention is all we have.
 It's one of our most valuable resources.
 
-David Foster Wallace once gave a graduation speech [This is water](https://markmanson.net/this-is-water)(highly recommended), in which he said the most precious kind of freedom involves (having some level of control over our) attention and awareness.
+David Foster Wallace once gave a graduation speech [This is water](https://youtu.be/ms2BvRbjOYo)(highly recommended), in which he said the most precious kind of freedom involves (having some level of control over our) attention and awareness.
 
 What we focus on has great impact on the quality of our life.
 And when in the suck, I need to keep reminding myself, stay.
