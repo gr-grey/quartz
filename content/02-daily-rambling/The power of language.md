@@ -18,7 +18,7 @@ There's the quote that opens the book:
 > 
 > will hit the shore.
 > 
-> Rumi
+> --- Rumi
 
 Language is powerful.
 Language can inspire us, move us, enrage us, and devastate us. 
@@ -31,19 +31,19 @@ I think deep down, the power (which could mean literal energy) of language comes
 
 Another weird example of language that really impressed me came from [[03-my-people/Robert Sapolsky|Robert Sapolsky]]'s lecture on the insula cortex. The following is adapted from the transcript. It might be a bit rambly because of the lecture format, but I love the way he describes it, and I recommend you watch the [video](https://youtu.be/GRYcSuyLiJk?t=983) directly.
 
-	Any mammal, when bites into some rotten, disgusting, spoiled food, the insula activates and triggers gagging reflexes, animal gags, spits it out, its stomach heaves, it throws it up, etc.
-	The insula keeps you from poisoning yourself with toxic food, that's great.
-	
-	Get some college freshmen volunteer inside a brain scanner and bites into some rancid fetid food, same deal, insula activates.
-	
-	Now instead of eating something disgusting, have them just *think about* eating something disgusting - a cockroach for example, the insula cortex also activates. 
-	In most mammals, insula cortex does gustatory disgust, and for us it also does thoughts about gustatory disgust.
-	
-	What's more interesting, instead of having the person eat something disgusting, or thinking about something disgusting to eat, make them think about something that is *morally disgusting*, and the insula activates in humans - this part of the brain also mediates moral disgust. 
-	
-	Presumably forty/ fifty thousand years ago, when we came with the notion of norm violations that could be so extreme, that it winds up being appalling - they had a meeting, they said we can't invent a new part of the brain, what that insula does - disgusting foods, disgusting behavior, I don't know, sounds similar, expand it in there, give me some duct tape... and now suddenly your insulin also does moral disgust.
-	
-	That's why if something is sufficiently morally disgusting, we feel sick to our stomachs, it leaves a bad taste in our mouth, we feel queasy. 
+> Any mammal, when bites into some rotten, disgusting, spoiled food, the insula activates and triggers gagging reflexes, animal gags, spits it out, its stomach heaves, it throws it up, etc.
+> The insula keeps you from poisoning yourself with toxic food, that's great.
+> 
+> Get some college freshmen volunteer inside a brain scanner and bites into some rancid fetid food, same deal, insula activates.
+> 
+> Now instead of eating something disgusting, have them just *think about* eating something disgusting - a cockroach for example, the insula cortex also activates. 
+> In most mammals, insula cortex does gustatory disgust, and for us it also does thoughts about gustatory disgust.
+> 
+> What's more interesting, instead of having the person eat something disgusting, or thinking about something disgusting to eat, make them think about something that is *morally disgusting*, and the insula activates in humans - this part of the brain also mediates moral disgust. 
+> 
+> Presumably forty/ fifty thousand years ago, when we came with the notion of norm violations that could be so extreme, that it winds up being appalling - they had a meeting, they said we can't invent a new part of the brain, what that insula does - disgusting foods, disgusting behavior, I don't know, sounds similar, expand it in there, give me some duct tape... and now suddenly your insulin also does moral disgust.
+> 
+> That's why if something is sufficiently morally disgusting, we feel sick to our stomachs, it leaves a bad taste in our mouth, we feel queasy. 
 
 And interestingly, in most major languages there is the usage of the same word for both bad food and bad morality. In Chinese, the example is "道德败坏".
 
