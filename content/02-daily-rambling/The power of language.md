@@ -70,4 +70,4 @@ Collectively, we shaped our language together by choosing which words to use and
 And in a way the large language models like GPT, trained on a good chunk of the texts from the internet, represents our group wisdom by absorbing all the information we've documented using our language.
 
 P.S.
-Reading this messy blog after finished, I realized it's basically an implicit ad for lectures from [[03-my-people/Robert Sapolsky|Robert Sapolsky]].
+Reading this messy blog after finished, I realized it's basically an implicit ad for lectures from [[03-my-people/Robert Sapolsky|Robert Sapolsky]] 😂.
