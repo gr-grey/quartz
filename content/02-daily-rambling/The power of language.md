@@ -14,7 +14,7 @@ There's the quote that opens the book:
 > 
 > language is shore.
 > 
-> Whatever see includes,
+> Whatever sea includes,
 > 
 > will hit the shore.
 > 
