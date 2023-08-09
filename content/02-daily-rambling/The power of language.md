@@ -29,6 +29,8 @@ In his Ted talk on [technology's epic story](https://youtu.be/GS1xL1qcBa4?t=471)
 
 I think deep down, the power (which could mean literal energy) of language comes from the power of information.
 
+It might be why the best way to learn something is to try to teach it to someone else, to express the idea in your own language. [[03-my-people/Kevin Kelly|Kevin Kelly]] once said
+
 Another weird example of language that really impressed me came from [[03-my-people/Robert Sapolsky|Robert Sapolsky]]'s lecture on the insula cortex. The following is adapted from the transcript. It might be a bit rambly because of the lecture format, but I love the way he describes it, and I recommend you watch the [video](https://youtu.be/GRYcSuyLiJk?t=983) directly.
 
 > Any mammal, when bites into some rotten, disgusting, spoiled food, the insula activates and triggers gagging reflexes, animal gags, spits it out, its stomach heaves, it throws it up, etc.
@@ -64,7 +66,7 @@ I have been revisiting the book on trauma *The Body Keeps The Score*. It talked 
 However, [[03-my-people/Robert Sapolsky|Robert Sapolsky]] also talked about how we should be careful about thinking only within a certain category, being limited in a [*bucket*](https://youtu.be/NNnIGh9g6fA?t=494).
 
 Last thing, on group wisdom.
-Ants can use group wisdom to solve the traveling sales man problem, which is a NP-hard problem, for details check out this [Sapolsky lecture](https://youtu.be/o_ZuWbX-CyE?t=3291).
+Ants can use group wisdom to solve the [[02-daily-rambling/Traveling salesman problem|traveling salesman problem]], which is a NP-hard problem, for details check out this [Sapolsky lecture](https://youtu.be/o_ZuWbX-CyE?t=3291).
 I wonder if language is our version of group wisdom.
 Collectively, we shaped our language together by choosing which words to use and which ones not to, based mostly on what feels right or good to us, and we nailed that insula cortex stuff.
 And in a way the large language models like GPT, trained on a good chunk of the texts from the internet, represents our group wisdom by absorbing all the information we've documented using our language.

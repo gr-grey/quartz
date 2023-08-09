@@ -35,7 +35,7 @@ That's it. That's how you do the slow carb diet.
 		- Proteins: eggs, chicken, fish, beef, pork, lamb
 		- Beans: lentils, black/ pinto/ red/ soy beans
 		- Vegetables: spinach, mixed veggies (cauliflower, broccoli, brussels sprouts, other cruciferous vegetables), asparagus, peas, green beans, sauerkraut, kimchi
-- Rule #6, one cheat day each week, eat whatever the heck you want, however much you want - eat all the donuts, cookies, oreos, cholate, cheese cakes, ice creams, pancakes, bagels, fruity drinks, pizzas, cinnamon rolls, croissants, have a carbohydrates feast that would make a diabetes shiver. 
+- Rule #6, one cheat day each week, eat whatever the heck you want, however much you want - eat all the donuts, cookies, oreos, cholate, cheese cakes, ice creams, pancakes, bagels, fruity drinks, pizzas, cinnamon rolls, croissants, have a carbohydrates feast that would make a diabetic shiver. 
 - No need to track calories. If you want to keep a food log out of curiosity, go ahead, but it's not necessary. Eat if you feel hungry, and if you can't stop eating after feeling full (as I sometimes do), that's some level of [[02-daily-rambling/Being fat is a symptom|food addiction]] and the problem is deeper. I find that addiction is usually a protecting/ coping mechanism to avoid pain, and it won't go away until I address the deeper problem.
   
 For more details and information regarding the slow carb diet, go to [Tim's blog](https://tim.blog/wp-content/uploads/2019/07/tim_ferriss_the-4-hour-chef_one_pager_slow_carb_diet.pdf) or his book *The Four Hour Body*.

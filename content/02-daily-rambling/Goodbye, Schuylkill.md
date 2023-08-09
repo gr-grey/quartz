@@ -54,7 +54,7 @@ But knowing that it'll be the last time I am close to Schuylkill (at least for a
 > Goodbye. I will miss you dearly.
 
 
-![[attachments/Pasted image 20230728210655.png]]
+![[attachments/schulykill-overflow.png]]
 
 Remember when you went crazy and flooded half of center city?
 Good time.
