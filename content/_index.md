@@ -8,6 +8,10 @@ because like photons, we behave differently when observed.
 
 Currently trying to put out my [ramblings](/tags/daily-rambling/) on most days.
 
+Other pages are
+[logs](/tags/dev-log) and
+[my people](/tags/my-people).
+
 ---
 
 Rebuilding my website with [🪴 Quartz 3.3 (jzhao.xyz)](https://quartz.jzhao.xyz/).
