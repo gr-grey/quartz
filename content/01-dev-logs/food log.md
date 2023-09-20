@@ -5,6 +5,30 @@ tags:
 - "dev-logs"
 ---
 
+## 2023-09-16
+
+breakfast sandwich, 2 slices of bread, 2 eggs, 1 slice of cheese, 1 slice of bacon
+1 apple cinnamon oats, 3 nature valley crunch bars (chocolate, peanut butter, honey oats)
+2 beivita crunchy biscuit (1 cinnamon, 1 chocolate)
+1 row of great value oat cookie
+
+Lunch, 
+some black beans and chicken
+3 dessert rolls in a plate
+1 apple, 1 yogurt
+tortilla chips with guac and chicken quesadilla
+
+Afternoon snacks,
+1 Klondike Reese's ice cream bar
+2 nature valley crunchy granola bars (chocolate and peanut butter)
+1 beivita biscuit
+
+Night,
+1 apple, some blueberries
+2 chocolate cookies, 1 nature value honey oat bar
+1 diet coke
+1 beivita biscuit
+
 ## 2023-08-05
 
 2 eggs + veggie  + 1 cup of beans
