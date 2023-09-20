@@ -9,8 +9,9 @@ because like photons, we behave differently when observed.
 Currently trying to put out my [ramblings](/tags/ramblings) on most days.
 
 Other pages are
-[logs](/tags/dev-logs) and
-[my people](/tags/my-people).
+[logs](/tags/dev-logs),
+[my people](/tags/my-people), and
+[garden](/04-garden).
 
 ---
 
