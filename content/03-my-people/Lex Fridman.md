@@ -34,14 +34,14 @@ They both train in Jiu-jitsu.
 
 Every marriage ends, in death or divorce.
 
-For most people, getting married is the most legally significant thing most they are going to do other than dying.
+For most people, getting married is the most legally significant thing they are going to do other than dying.
 
 Prenups are good ideas, because we can't predict the future and life often have surprises awaiting us beyond our wildest imagination.
 
-The cheapest price to divorce with a lawyer involved is on the level of thousands.
+Once a lawyer is needed, the cheapest price for divorce is thousands of dollars.
 
-Managing marital finances is like anal sex: proceed carefully and have discussion in advance, don't just spring it on someone,
-and realize that if this goes wrong, it will go catastrophically wrong.
+Managing marital finances is like anal sex: proceed carefully and have discussion in advance, don't just spring it on someone.
+Realize that if this goes wrong, it will go catastrophically wrong.
 
 In the movie *True love*, the Gary Oldman scene where he offers his opponent Chinese food, was a good lesson on negotiation.
 People with real power are usually calm. The small dogs bark louder.
