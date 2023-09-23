@@ -39,6 +39,8 @@ Hopefully I'll come back to elaborate the followings 🤞.
 
 - Attention.
 
+- Patience + focus attention -> one step at a time. Hold on. Endurance.
+
 - Infrastructures and foundations for growth. Habits like One blog a day.
 
 > Winners has systems, losers have goals.
