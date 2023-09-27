@@ -34,7 +34,7 @@ Maybe someone will stumble on something that makes sleep so enjoying and feel so
 
 Anyway, even though I am team "get better sleep", I do think *forcing* a certain amount sleep is a bad idea, as it tends to cause too much stress and pain for me. 
 
-Maybe things like eatings, sleeping, body temperature, and breathing are supposed to be taken care of by the autonomic nervous system, the brain stem and other house keeping departments of the body, and if we try to force it with our conscious mind (such as frontal cortex), we could get into trouble. 
+Maybe things like eating, sleeping, body temperature, and breathing are supposed to be taken care of by the autonomic nervous system, the brain stem and other house keeping departments of the body, and if we try to force it with our conscious mind (such as frontal cortex), we could get into trouble. 
 
 A lot of times the body is perfectly capable of doing its job and taking care of us, and it's the mind that needs to get out of the way, e.g., don't *force* the body to sleep longer just because the mind heard from some expert saying so. Try it, and if the body keeps rejecting the idea, it's probably for good reasons and we should listen to the body and rethink about the whole thing.
 
