@@ -5,6 +5,67 @@ tags:
 - "dev-logs"
 ---
 
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<div id="weight-chart"></div>
+
+<script>
+    // Function to read the TSV file
+    async function fetchTSV(url) {
+        const response = await fetch(url);
+        const text = await response.text();
+        return text;
+    }
+
+    // Function to parse the TSV data
+    function parseTSV(data) {
+        const rows = data.split('\n').slice(1); // Skip the header row
+        const dates = [];
+        const weights = [];
+
+        rows.forEach(row => {
+            const columns = row.split('\t');
+            if (columns.length === 2) {
+                const date = columns[0];
+                const weight = parseFloat(columns[1]);
+                if (!isNaN(weight)) {
+                    dates.push(date);
+                    weights.push(weight);
+                }
+            }
+        });
+
+        return { dates, weights };
+    }
+
+    // Fetch and parse the TSV data
+    fetchTSV('/attachments/weightRecord.tsv')
+        .then(data => {
+            const { dates, weights } = parseTSV(data);
+
+            // Create the Plotly chart
+            const trace = {
+                x: dates,
+                y: weights,
+                type: 'scatter',
+                mode: 'lines+markers',
+                name: 'Weight'
+            };
+
+            const layout = {
+                title: 'Weight Over Time',
+                xaxis: { title: 'Date' },
+                yaxis: { title: 'Weight (kg)' }
+            };
+
+            Plotly.newPlot('weight-chart', [trace], layout);
+        })
+        .catch(error => {
+            console.error('Error fetching or parsing data:', error);
+        });
+</script>
+
+
 ## 2023-09-16
 
 breakfast sandwich, 2 slices of bread, 2 eggs, 1 slice of cheese, 1 slice of bacon

@@ -1,5 +1,5 @@
 ---
-title: Paradoxes
+title: "Paradoxes, illusions, and biases"
 date: 2023-09-20
 summary: ""
 tags:
@@ -8,7 +8,9 @@ tags:
 
 > Much of life's challenges are not problems that we solve, they are paradoxes that we manage.
 
-1. There is no free will[^1] but there's always choosing.
+> It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.
+
+1. There may not be free will[^1] but there's always choosing.
 
 2. The more you give, the more you'll get.
 
@@ -47,6 +49,8 @@ we also love losing control in a controlled setting (being surprised).
       While we are at it, there's another quote I like from Sapolsky:
 
       > The opposite of play is not work, it's depression.
+
+12. The less you talk about it, the more you have it. This applies to both shame and success.
 
 [^1]: The matter or free will is certainly debatable, but many people believe that. For example, [[Robert Sapolsky]] said, when it comes to free will, I don't think there's a single shred of it.
 
