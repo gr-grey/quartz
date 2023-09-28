@@ -5,6 +5,8 @@ tags:
 - "dev-logs"
 ---
 
+My weight over time.
+
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 <div id="weight-chart"></div>
