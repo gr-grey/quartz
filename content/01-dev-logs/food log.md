@@ -5,8 +5,6 @@ tags:
 - "dev-logs"
 ---
 
-My weight over time.
-
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 <div id="weight-chart"></div>
@@ -66,6 +64,21 @@ My weight over time.
             console.error('Error fetching or parsing data:', error);
         });
 </script>
+
+## 2023-09-30
+
+2 moon cakes, 3 packs of belvita crunchy biscuit, 3 nature valley crunchy bars
+
+2 slices of chocolate cake, 1 small burrito, 2 small cookies
+
+some strawberries, blueberries
+
+dinner with 3 other friends, with following dishes: chicken pot, sour sliced beef with tofu, stewed lamb, roasted pork feet,
+one bowl of rice.
+
+half of a mooncake, some strawberries, soy milk, a peach, some blueberries
+
+gained 5lbs the day after, ooops.
 
 
 ## 2023-09-16
