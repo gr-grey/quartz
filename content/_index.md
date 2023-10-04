@@ -10,8 +10,10 @@ Currently trying to put out my [ramblings](/tags/ramblings) on most days.
 
 Other pages are
 [logs](/tags/dev-logs),
-[my people](/tags/my-people), and
-[garden](/04-garden).
+[my people](/tags/my-people),
+[garden](/04-garden), 
+and [learning notes](/05-learning).
+
 
 ---
 
