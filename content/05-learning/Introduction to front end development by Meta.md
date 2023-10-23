@@ -99,7 +99,7 @@ Deal with html, CSS and Javascript.
 
 **Full stack** both frond and back end.
 
-## Front end intro
+## Front end concepts and tools
 
 ### HTML, CSS and Javascript
 
@@ -113,6 +113,8 @@ Webpage documents.
 ### Developer tools
 In browser, right click -> inspection.
 F12 (win) or cmd+J (mac).
+
+Developer tools has a mobile simulator.
 
 **Console**: Javascript logs and errors.
 
@@ -205,7 +207,8 @@ Some common tags: h1 (header), p (paragraph), ul (unordered list), ol (ordered l
 	<a href="https://gr-grey.github.io/" >Link to this blog.</a>
 
 	<!-- img image -->
-	<img src="https://static.wikia.nocookie.net/inconsistently-admirable/images/a/ab/Ghost.png/revision/latest/scale-to-width-down/1200?cb=20220331020028" width="30%" alt="Hollow Knight.png">
+<a href="https://gr-grey.github.io/" >Link to this blog.</a>
+<img src="https://www.xboxtavern.com/wp-content/uploads/2018/09/HollowKnightRevRBBBB.jpg" width="30%" alt="Hollow Knight.png">
 
 	<!-- table -->
 	<table>
@@ -256,7 +259,7 @@ How the code block html looks like:
 	</p>
 </div>
 <a href="https://gr-grey.github.io/" >Link to this blog.</a>
-<img src="https://static.wikia.nocookie.net/inconsistently-admirable/images/a/ab/Ghost.png/revision/latest/scale-to-width-down/1200?cb=20220331020028" width="200" alt="Hollow Knight.png">
+<img src="https://www.xboxtavern.com/wp-content/uploads/2018/09/HollowKnightRevRBBBB.jpg" width="30%" alt="Hollow Knight.png">
 <table>
 	<tr>
 		<th>col 1</th>
@@ -501,7 +504,7 @@ Justify spreads text out so every line has the same width.
 }
 ```
 
-![result](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ElKjOOdnT2GSozjnZy9hJw_0670f63ae6e548a28dfa041b7983bfe1_css_center_div.png?expiry=1696982400000&hmac=JwO9ujkBhVpJoYTQjsQyhvH7mJE4ewLrLaSuMBWWVAU)
+![result](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ElKjOOdnT2GSozjnZy9hJw_0670f63ae6e548a28dfa041b7983bfe1_css_center_div.png?expiry=1698192000000&hmac=X6fLD8pmDwUmkDytWsigxM7YM2HUAbLri1mccGTj7X4)
 
 Aligning image
 
@@ -542,7 +545,210 @@ Example:
 }
 ```
 
-![Result](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JBGR11KmTT-RkddSpn0_WA_a961d58ec8334d8387cc2df53c9b15e1_css_float_right.png?expiry=1696982400000&hmac=vJrogRUDInrlATEbR_GpsZHVJPzaiMIA2XDSpk2jBEg)
+![Result](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JBGR11KmTT-RkddSpn0_WA_a961d58ec8334d8387cc2df53c9b15e1_css_float_right.png?expiry=1698192000000&hmac=l7yiKjCpZTPQEccft358-dqNPIhjBCpRGYISnRWnhZU)
+
+## Bootstrap framework and responsive design
+
+ Libraries, dependencies and bundlers.
+ - NPM: node package manager
+ - Javascript bundlers: Gulp and webpack
+
+### Responsive grids: flexible, fluid, large & small screens
+
+Responsive design auto adjust the width depending on the size of the screen.
+
+Responsive grids come with the following features.
+
+1. Flexible grids
+	 - are made up of columns, gutters and margins |< margin| column | gutter | column | margin >|
+	 - set by percentage instead of absolute sizes
+2. Fluid images
+	 - e.g. max-width: 90%
+	 - either shrinks to meet max width or keep the same size (won't expand bigger)
+3. Media queries
+	 - display size, orientation, aspect ratio
+
+*Breakpoint*: 
+
+ -  the "breaking point" between larger and smaller screens, e.g. below 768px should be one case (mobile), from 768 to 1024px should be one case (tablets), then > 1024 should be desktop.
+
+*3 Grid types*
+
+1. Fix grid: fixed column/ content width, flexible margins expand to fill the void.
+2. Fluid/ full width grid: fluid column width, fixed gutter. Column/ content expands to fill the void.
+3. Hybrid: mix of fix and fluid.
+
+The approach to breakpoints has evolved over time. 
+Initially, designers used device-specific breakpoints, but the industry has largely shifted towards content-specific breakpoints. 
+This means we set breakpoints where the particular design naturally breaks or could be improved, rather than sticking rigidly to common device dimensions.
+
+### Bootstrap framework: infixes, modifiers, layout, content, forms.
+
+Bootstrap, a library of CSS and JavasScript code,
+has been called a front-end framework, CSS framework and CSS library.
+
+It has a lot of classes ready for use.
+
+It's useful to build *Responsive grids*.
+
+**Infixes and modifiers**
+
+Infixes are thresholds for determine if a size is small, middle, large or xlarge
+
+```html
+
+<!--6 column for small screen (default xs) -->
+<div class="col-6"></div>
+<!--6 column for large screen -->
+<div class="col-lg-6"></div>
+
+<!--spans all 12 cols for small screen and split by occupying only 6 cols on large ones -->
+<div class="col-12 col-lg-6"></div>
+
+<div class="alert alert-primary"></div>
+```
+
+Modifier changes the color of the alert message.
+
+[Using Bootstrap documentation](https://www.coursera.org/learn/introduction-to-front-end-development/supplement/AgPYj/using-bootstrap-documentation)
+
+[Get started with Bootstrap · Bootstrap v5.3 (getbootstrap.com)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+#### Layout
+
+Grid system of Bootstrap. 
+More advanced usage such as offsets, column alignment, auto-layout and variable width columns.
+
+#### Content
+
+Responsive images and tables.
+
+#### Forms styling
+
+HTML form elements and corresponding Bootstrap CSS class 
+
+| Form Element          | CSS class        |
+| --------------------- | ---------------- |
+| input                 | form-control     |
+| input type="checkbox" | form-check-input |
+| input type="radio"    | form-check-input |
+| input type="range"    | form-range       |
+| select                | form-select      | 
+
+Using these CSS classes will style the elements appropriately for different input types, sizings and states. 
+[Forms documentation page](https://getbootstrap.com/docs/5.0/forms/overview/).
+
+*Switches*
+
+If you've used an app on your mobile device, you're probably familiar with the switch input type.
+
+![Bootstrap Doc Switches](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/t-RILIyKSwekSCyMipsHug_9b79ddf623c54c6f8719964fc25e20e1_bootstrap_docs_switches.png?expiry=1698192000000&hmac=aGSFW2EauOqIv9PFHrGAKiSiEl8e7dI-KmjiVe0pIRE)
+
+Bootstrap includes CSS rules to style checkbox input elements as switches.
+
+```html
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox">
+</div>
+```
+
+[Switches section of the documentation](https://getbootstrap.com/docs/5.0/forms/checks-radios/#switches).
+
+##### Input Groups
+
+providing additional content to the input field. 
+For example, request the user to input a US dollar amount, use an input group to show the dollar symbol and cents amount.
+
+![Bootstrap Input Groups](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mr7x2CKwQ86-8dgisGPOQQ_b4407177d0b74adc8b4affb9fc8efde1_bootstrap_input_group.png?expiry=1696204800000&hmac=_wXWVZTFQvpBD6HEKZ1HzCBNS-fr02rRFx6tXZjaktg)
+
+
+
+
+```html
+<div class="input-group">
+  <span class="input-group-text">$</span>
+  <input type="text" class="form-control">
+  <span class="input-group-text">.00</span>
+</div>
+```
+
+
+##### Floating Labels
+
+provide form information to the user as part of the input itself. These are different from regular form placeholders. The information stays visible if the user is interacting with the element or if the element has content.
+
+![Bootstrap floating label](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/d91CBY4JQoOdQgWOCaKD5Q_cee428e3084f4f51bb27b71a353924e1_bootstrap_docs_floating_label1.png?expiry=1696204800000&hmac=7-h2LjdtZSl--byzqfAJBfwQA8cMBnoyZZGklfaZ5_0)
+
+![Bootstrap floating label](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/-5va2gC4R56b2toAuPeehQ_159ac1bc9ba744778bccd91d679fa2e1_bootstrap_docs_floating_label2.png?expiry=1696204800000&hmac=ZuomwQ0uvkuFBQPxRcFQ2fve9pTNdXSwyW767aQbs1I)
+
+```html
+<div class="form-floating">
+  <input type="email" class="form-control" id="addressInput" placeholder="Address">
+  <label for="addressInput">Address</label>
+</div>
+```
+
+ [Floating Labels documentation page](https://getbootstrap.com/docs/5.0/forms/floating-labels/)
+ 
+#### Components
+
+Some components require Javascript to work, while others only require CSS classes applied to HTML elements. 
+
+![The components section of the Bootstrap documentation](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/SF1dLntLRAqdXS57S1QKcg_27e2d870013f468ab187f7a708113fe1_bootstrap_docs_components.png?expiry=1696204800000&hmac=S-WLe1MBSU_aiABRc0JtcERxfVDeYT62FfvuBekvzhs)
+
+
+### Other CSS frameworks and libraries
+
+
+#### Foundation
+
+[Foundation](https://get.foundation/)
+
+similar to Bootstrap. 
+used by companies such as Pixar, Polar and Sonos. 
+
+One feature: can be used to style content for sending via email.
+
+#### Pure.css
+
+[Pure.css](https://purecss.io/)
+
+While it doesn't have as many features as Bootstrap, it is designed to be minimal in file size. 
+Smaller file sizes improve loading times for web pages as there is less data to transfer from the web server. 
+
+#### Tailwind CSS
+
+[Tailwind CSS](https://tailwindcss.com/)
+Rapidly build modern websites without ever leaving your HTML.
+
+uses a utility-based approach for its CSS rules. 
+the framework provides many CSS classes with a single purpose. 
+
+For example, the CSS class pt-6 sets the padding-top CSS property to 6 pixels. 
+you can be precise in styling without writing CSS. 
+
+The advantage is more flexible for customizing webpage's design.
+the disadvantage is if multiple developers, it could lead to inconsistent design
+
+#### UIKit
+
+[UIKit](https://getuikit.com/)
+
+a lightweight and modular CSS framework featuring a small set of responsive components. 
+A simple design allows developers to easily customize the style rules and visuals.
+
+
+#### MVP.css
+
+[MVP.css](https://andybrewer.github.io/mvp/)
+A minimalist stylesheet for HTML elements.
+
+comes from the technical term Minimal Viable Product, a product with sufficient features to demo to customers or other business stakeholders.
+
+a small CSS library that automatically styles HTML elements without needing to apply CSS classes to them. 
+allow a developer to quickly prototype a user interface without worrying about the final design, while still being visually appealing. 
+
+
  
 ## Additional resources
 
@@ -583,13 +789,10 @@ Example:
 ### CSS Bacis
 
 **CSS Reference (Mozilla)**
-
 [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 **HTML and CSS: Design and build websites by Jon Duckett**
-
 [https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/)
 
 **CSS Definitive Guide by Eric Meyer**
-
 [https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/](https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/)
