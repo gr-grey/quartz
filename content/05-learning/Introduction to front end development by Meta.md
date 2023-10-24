@@ -545,7 +545,10 @@ Example:
 }
 ```
 
-![Result](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JBGR11KmTT-RkddSpn0_WA_a961d58ec8334d8387cc2df53c9b15e1_css_float_right.png?expiry=1698192000000&hmac=l7yiKjCpZTPQEccft358-dqNPIhjBCpRGYISnRWnhZU)
+
+<div class="parent">
+  <img src="https://www.xboxtavern.com/wp-content/uploads/2018/09/HollowKnightRevRBBBB.jpg" style="float: right;" width="30%"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu odio eget leo auctor porta sit amet sit amet justo. Donec fermentum quam in diam volutpat, at lacinia diam placerat. Aenean quis feugiat sem. Suspendisse a dui massa. Phasellus scelerisque, mi vestibulum iaculis tristique, orci tellus gravida nisi, in pellentesque elit massa ut lorem. Sed elementum ornare nunc vel cursus. Duis sed enim in nulla efficitur convallis sed eget dolor. Curabitur scelerisque eros erat, in vulputate dolor consequat vel. Praesent ac sapien condimentum, ultricies libero at, auctor orci. Curabitur ut augue ac massa convallis faucibus sed in magna. Phasellus scelerisque auctor est a auctor. Nam laoreet sem sapien, porta imperdiet urna laoreet eu. Morbi dolor turpis, congue id bibendum eget, viverra et risus. Quisque vitae erat id tortor ullamcorper maximus.
+</div>
 
 ## Bootstrap framework and responsive design
 
@@ -614,6 +617,27 @@ Modifier changes the color of the alert message.
 
 [Get started with Bootstrap · Bootstrap v5.3 (getbootstrap.com)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
+### Bootstrap demo
+
+When JavaScript and CSS files are linked via **CDN** (Content Delivery Network), we don't have install any library locally.
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  </body>
+</html>
+```
+
+
 #### Layout
 
 Grid system of Bootstrap. 
@@ -638,17 +662,36 @@ HTML form elements and corresponding Bootstrap CSS class
 Using these CSS classes will style the elements appropriately for different input types, sizings and states. 
 [Forms documentation page](https://getbootstrap.com/docs/5.0/forms/overview/).
 
+
+<form>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1">
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
 *Switches*
-
-If you've used an app on your mobile device, you're probably familiar with the switch input type.
-
-![Bootstrap Doc Switches](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/t-RILIyKSwekSCyMipsHug_9b79ddf623c54c6f8719964fc25e20e1_bootstrap_docs_switches.png?expiry=1698192000000&hmac=aGSFW2EauOqIv9PFHrGAKiSiEl8e7dI-KmjiVe0pIRE)
 
 Bootstrap includes CSS rules to style checkbox input elements as switches.
 
+![Bootstrap Doc Switches](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/t-RILIyKSwekSCyMipsHug_9b79ddf623c54c6f8719964fc25e20e1_bootstrap_docs_switches.png?expiry=1698192000000&hmac=aGSFW2EauOqIv9PFHrGAKiSiEl8e7dI-KmjiVe0pIRE)
+
 ```html
 <div class="form-check form-switch">
-  <input class="form-check-input" type="checkbox">
+	<input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault"><label class="form-check-label" for="flexSwitchCheckDefault">Default switch checkbox input</label>
 </div>
 ```
 
@@ -656,19 +699,80 @@ Bootstrap includes CSS rules to style checkbox input elements as switches.
 
 ##### Input Groups
 
-providing additional content to the input field. 
-For example, request the user to input a US dollar amount, use an input group to show the dollar symbol and cents amount.
+Providing additional content to the input field. 
 
-![Bootstrap Input Groups](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mr7x2CKwQ86-8dgisGPOQQ_b4407177d0b74adc8b4affb9fc8efde1_bootstrap_input_group.png?expiry=1696204800000&hmac=_wXWVZTFQvpBD6HEKZ1HzCBNS-fr02rRFx6tXZjaktg)
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
 
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+  <span class="input-group-text" id="basic-addon2">@example.com</span>
+</div>
 
+<div class="mb-3">
+  <label for="basic-url" class="form-label">Your vanity URL</label>
+  <div class="input-group">
+    <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+    <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3 basic-addon4">
+  </div>
+  <div class="form-text" id="basic-addon4">Example help text goes outside the input group.</div>
+</div>
+
+<div class="input-group mb-3">
+  <span class="input-group-text">$</span>
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+  <span class="input-group-text">.00</span>
+</div>
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username">
+  <span class="input-group-text">@</span>
+  <input type="text" class="form-control" placeholder="Server" aria-label="Server">
+</div>
+
+<div class="input-group">
+  <span class="input-group-text">With textarea</span>
+  <textarea class="form-control" aria-label="With textarea"></textarea>
+</div>
 
 
 ```html
-<div class="input-group">
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+  <span class="input-group-text" id="basic-addon2">@example.com</span>
+</div>
+
+<div class="mb-3">
+  <label for="basic-url" class="form-label">Your vanity URL</label>
+  <div class="input-group">
+    <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+    <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3 basic-addon4">
+  </div>
+  <div class="form-text" id="basic-addon4">Example help text goes outside the input group.</div>
+</div>
+
+<div class="input-group mb-3">
   <span class="input-group-text">$</span>
-  <input type="text" class="form-control">
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
   <span class="input-group-text">.00</span>
+</div>
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username">
+  <span class="input-group-text">@</span>
+  <input type="text" class="form-control" placeholder="Server" aria-label="Server">
+</div>
+
+<div class="input-group">
+  <span class="input-group-text">With textarea</span>
+  <textarea class="form-control" aria-label="With textarea"></textarea>
 </div>
 ```
 
@@ -677,14 +781,23 @@ For example, request the user to input a US dollar amount, use an input group to
 
 provide form information to the user as part of the input itself. These are different from regular form placeholders. The information stays visible if the user is interacting with the element or if the element has content.
 
-![Bootstrap floating label](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/d91CBY4JQoOdQgWOCaKD5Q_cee428e3084f4f51bb27b71a353924e1_bootstrap_docs_floating_label1.png?expiry=1696204800000&hmac=7-h2LjdtZSl--byzqfAJBfwQA8cMBnoyZZGklfaZ5_0)
-
-![Bootstrap floating label](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/-5va2gC4R56b2toAuPeehQ_159ac1bc9ba744778bccd91d679fa2e1_bootstrap_docs_floating_label2.png?expiry=1696204800000&hmac=ZuomwQ0uvkuFBQPxRcFQ2fve9pTNdXSwyW767aQbs1I)
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <label for="floatingInput">Email address</label>
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
 
 ```html
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <label for="floatingInput">Email address</label>
+</div>
 <div class="form-floating">
-  <input type="email" class="form-control" id="addressInput" placeholder="Address">
-  <label for="addressInput">Address</label>
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
 </div>
 ```
 
@@ -694,30 +807,24 @@ provide form information to the user as part of the input itself. These are diff
 
 Some components require Javascript to work, while others only require CSS classes applied to HTML elements. 
 
-![The components section of the Bootstrap documentation](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/SF1dLntLRAqdXS57S1QKcg_27e2d870013f468ab187f7a708113fe1_bootstrap_docs_components.png?expiry=1696204800000&hmac=S-WLe1MBSU_aiABRc0JtcERxfVDeYT62FfvuBekvzhs)
-
+Examples include accordion, alerts, badge, breadcrumb, buttons, button group, card, carousel, close button, collapse, dropdowns, list group, modal, navs and tabs, navbar, offcanvas, pagination, popovers, progress, scrollspy, spinners, toasts, tooltips.
 
 ### Other CSS frameworks and libraries
 
 
 #### Foundation
-
-[Foundation](https://get.foundation/)
-
+[Foundation](https://get.foundation/),
 similar to Bootstrap. 
 used by companies such as Pixar, Polar and Sonos. 
 
 One feature: can be used to style content for sending via email.
 
 #### Pure.css
-
 [Pure.css](https://purecss.io/)
-
 While it doesn't have as many features as Bootstrap, it is designed to be minimal in file size. 
 Smaller file sizes improve loading times for web pages as there is less data to transfer from the web server. 
 
 #### Tailwind CSS
-
 [Tailwind CSS](https://tailwindcss.com/)
 Rapidly build modern websites without ever leaving your HTML.
 
@@ -731,24 +838,148 @@ The advantage is more flexible for customizing webpage's design.
 the disadvantage is if multiple developers, it could lead to inconsistent design
 
 #### UIKit
-
 [UIKit](https://getuikit.com/)
-
 a lightweight and modular CSS framework featuring a small set of responsive components. 
 A simple design allows developers to easily customize the style rules and visuals.
 
 
 #### MVP.css
-
 [MVP.css](https://andybrewer.github.io/mvp/)
 A minimalist stylesheet for HTML elements.
 
-comes from the technical term Minimal Viable Product, a product with sufficient features to demo to customers or other business stakeholders.
+Comes from the technical term Minimal Viable Product, a product with sufficient features to demo to customers or other business stakeholders.
 
-a small CSS library that automatically styles HTML elements without needing to apply CSS classes to them. 
+A small CSS library that automatically styles HTML elements without needing to apply CSS classes to them. 
 allow a developer to quickly prototype a user interface without worrying about the final design, while still being visually appealing. 
 
 
+## REACT intro, UI frameworks and libraries
+
+### Web & app server, static & dynamic content, SPA templates, bundling & lazy loading
+
+**Application server** (like app.py?)
+ - Handles backend, generation of the *dynamic* content. Generation can be complicated and slow.
+	 - application logic compute
+	 - communicate with database
+	 - check permissions
+	 - might involve different types: music, video, blog
+
+**Caching** is something a web server does.
+It keeps a copy of dynamic content, readily available upon request. Upon request, load cache if exist, retrieve and store if not
+
+**Single page application (SPA)** is a newer way to build apps and websites.
+
+The old multi-page applications tend to be resource intensive.
+
+SPA uses only one HTML page and modular components. 
+The one page gets updated as user interacts with the website. The update process only concerns modules that are filled in the templates.
+
+**Bundling**: pack html, css and JavaScript together and send them.
+
+**Lazy loading**: only load minimum resources.
+
+### REACT JavaScript Library
+
+React is an open source JavaScript library, to build composable user interfaces, developed by Meta.
+
+React is not a Model-View-Controller (MVC) framework.
+
+React does not use template.
+Instead, it breaks down user interfaces into smaller pieces called ***components***.
+
+React keeps a **virtual DOM**, each react element maps to one html element.
+
+It'll initialize components by generating a light weight representation, then perform updates as efficiently as possible.
+
+When changes occur, it updates the virtual DOM, and change only the part that needs to be updated.
+
+The process is called **reconciliation**.  This re-render is usually very fast.
+
+Some random things.
+- Facebook has dynamic charts that render to *canvas* instead of HTML.
+- Instagram is a “single page” web app built entirely with React and Backbone.Router. Designers regularly contribute React code with JSX.
+- We’ve built internal prototypes that run React apps in a web worker and use React to drive **native iOS views** via an Objective-C bridge.
+- You can run React on the server for SEO, performance, code sharing and overall flexibility.
+- Events behave in a consistent, standards-compliant way in all browsers (including IE8) and automatically use event delegation.
+
+**Libraries commonly used with REACT**
+-  [Lodash](https://lodash.com/). Help you write common logics, such as sort a list of items or round a number such as 3.14 to 3. 
+-  [Luxon](https://moment.github.io/luxon/#/). JavaScript wrapper for dates and times.
+viewing a list of orders and when they were placed, or displaying a calendar schedule for an event. Dates and times are everywhere.
+-  [Redux](https://redux.js.org/). A predictable state container for JS Apps.
+-  [Axios](https://axios-http.com/). Helps to simplify sending HTTP requests and processing the response. 
+-  [Jest](https://jestjs.io/). JavaScript testing.
+
+## Webpage example: biopage
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio Page</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div id="bio" class="col-12 col-lg-6 text-center">
+                <h1>Jane</h1>
+                <img src="photo.jpg" class="img-fluid" />
+            </div>
+            <div id="more" class="col-12 col-lg-6">
+                <h2>Favorite Music Artists</h2>
+                <ul>
+                    <li>Metallica</li>
+                    <li>Bob Marley</li>
+                    <li>Madonna</li>
+                    <li>The Beatles</li>
+                    <li>Pink Floyd</li>
+                </ul>
+                <h2>Favorite Films</h2>
+                <ol>
+                    <li>Pulp Fiction</li>
+                    <li>The Godfather</li>
+                    <li>The Lord of the Rings</li>
+                    <li>Iron Man</li>
+                    <li>Inception</li>
+                </ol>
+                <a href="https://www.meta.com/user/123" class="btn btn-primary">My Meta Profile</a>
+            </div>
+        </div>
+    </div>
+    <script src="bootstrap.bundle.min.js"></script>
+</body>
+</html>
+```
+
+<div class="container">
+    <div class="row">
+        <div id="bio" class="col-12 col-lg-6 text-center">
+            <h1>Jane</h1>
+            <img src="https://www.xboxtavern.com/wp-content/uploads/2018/09/HollowKnightRevRBBBB.jpg" width="30%" class="img-fluid" />
+        </div>
+        <div id="more" class="col-12 col-lg-6">
+            <h2>Favorite Music Artists</h2>
+            <ul>
+                <li>Metallica</li>
+                <li>Bob Marley</li>
+                <li>Madonna</li>
+                <li>The Beatles</li>
+                <li>Pink Floyd</li>
+            </ul>
+            <h2>Favorite Films</h2>
+            <ol>
+                <li>Pulp Fiction</li>
+                <li>The Godfather</li>
+                <li>The Lord of the Rings</li>
+                <li>Iron Man</li>
+                <li>Inception</li>
+            </ol>
+            <a href="https://www.meta.com/user/123" class="btn btn-primary">My Meta Profile</a>
+        </div>
+    </div>
+</div>
+<script src="bootstrap.bundle.min.js"></script>
  
 ## Additional resources
 
@@ -796,3 +1027,28 @@ allow a developer to quickly prototype a user interface without worrying about t
 
 **CSS Definitive Guide by Eric Meyer**
 [https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/](https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/)
+
+### Bootstraps intro
+
+**Bootstrap Official Website** [https://getbootstrap.com/](https://getbootstrap.com/)
+
+**Bootstrap 5 Foundations by** **Daniel Foreman** [https://www.amazon.com/Bootstrap-Foundations-Mr-Daniel-Foreman/dp/B0948GRS8W/](https://www.amazon.com/Bootstrap-Foundations-Mr-Daniel-Foreman/dp/B0948GRS8W/)
+
+**Responsive Web Design with HTML5 and CSS** **by** **Ben Frain** [https://www.amazon.com/Responsive-Web-Design-HTML5-CSS/dp/1839211563/](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS/dp/1839211563/)
+
+**Bootstrap Themes** [https://themes.getbootstrap.com/](https://themes.getbootstrap.com/)
+
+### REACT intro
+
+**React Official Website**
+[https://reactjs.org/](https://reactjs.org/)
+
+**Choosing between Traditional Web Apps and Single Page Apps (Microsoft)**
+[https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps)
+
+**React Source Code (Github)**
+[https://github.com/facebook/react](https://github.com/facebook/react)
+
+**Introduction to React.js**
+_The original video recorded at Facebook in 2013._
+[_https://youtu.be/XxVg_s8xAms_](https://youtu.be/XxVg_s8xAms)
