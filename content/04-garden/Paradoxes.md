@@ -52,6 +52,8 @@ we also love losing control in a controlled setting (being surprised).
 
 12. The less you talk about it, the more you have it. This applies to both shame and success.
 
+13.  Attractor repels. It's a limit you can get infinitely close to but never reach.
+
 [^1]: The matter or free will is certainly debatable, but many people believe that. For example, [[Robert Sapolsky]] said, when it comes to free will, I don't think there's a single shred of it.
 
 [^2]: From Sapolsky's [Class Day Lecture 2009: The Uniqueness of Humans](https://www.youtube.com/watch?v=hrCVu25wQ5s&list=LL&index=4) by Stanford University.
