@@ -25,7 +25,7 @@ I came back to the river a bit older and more seasoned, and hopefully stronger, 
 
 I thought of a quote from T.S. Eliot:
 
-> [!quote] &nbsp;
+> [!quote] T.S. Eliot
 > We shall not cease from exploration <br>
 > And the end of all our exploring <br>
 > Will be to arrive where we started <br>
@@ -34,7 +34,7 @@ I thought of a quote from T.S. Eliot:
 
 And another from [[Kevin Kelly]]:
 
->[!quote]  &nbsp;
+>[!quote] Kevin Kelly
 >That thing that made you weird as a kid <br>
 > could make you great as an adult <br>
 > —if you don’t lose it.
