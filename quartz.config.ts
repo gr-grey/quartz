@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Grey's Log",
+    pageTitle: "Grey",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
