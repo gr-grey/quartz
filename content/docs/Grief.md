@@ -18,17 +18,17 @@ Denial, anger, bargaining, sadness and acceptance.
 
 That first strike, when I first saw the bad news.
 
-There's a rush of blood, the split second of "I must've seen it wrong", the amygdala pulling the alarm, 
+There's a rush of blood, the split second of "I must've seen it wrongly", the amygdala pulling the alarm, 
 
 Then the message was still there, and I still can't believe. Alarm still ringing, all hell officially broke loose.
 
-I used to hate that, because it hurts so bad, but now that I have a different view on pain, I get a new perfective on this too.  
+I so desperately wanted this to not be true. 
 
-I had a couple of flash backs to a couple traumatic moments, of when I first learned the news.
+I used to hate this first shock, because it hurts so bad, the punch came out of nowhere. Now that I have a different view on pain, I have a new perfective on this too.  
 
-I so desperately wanted this to not be true.  
+I had a couple of flash backs of other traumatic moments, of what it felt like when I first learned the news.
 
-And I feed the figure/ narrative of the denial by vowing to get stronger and never be humiliated like this again.  
+I used to feed the figure/ narrative of denial by vowing to get stronger and never be humiliated like this again.  
   
 Humiliation, oh I didn’t notice you were there too.  
 
@@ -39,12 +39,13 @@ Along with shame, they fuel the next stage - anger.
 
 Anger might be represented by testosterone, maybe adrenaline more so, or perhaps it’s dopamine plus extreme grief? 
 
-Is that why it’s addictive? It sure feels good, that rush, the flame overtakes prefrontal cortex like craving takes over an addict’s mind.  
+Is that why it’s addictive? Some aspect of it sure feels good, the rush, the flame overtakes prefrontal cortex like craving takes over an addict’s mind.  
 
-It's contagious and a potent bonding force. It comes with so much raw energy.
+It's contagious and a potent bonding force. It comes with such raw energy.
+
 It roars through and burns down everything in its path. 
   
-The purpose is to intensify and amplify, to etch the need to be stronger into your core belief - get stronger and adapt, or you’ll die.  
+The purpose is to intensify and amplify, to etch the need to be stronger into my head - get stronger and adapt, or you’ll die.  
   
 That’s what ‘s supposed to comes out of it, like a crystal shining in the sun, after the storm has passed. 
   
