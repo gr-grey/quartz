@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: How wild thoughts came to be
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+For a more logical reason with with a lower temperature parameter. See [Work Stuff (gr-grey.github.io)](https://gr-grey.github.io/workSite/).
