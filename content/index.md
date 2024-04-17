@@ -13,4 +13,9 @@ An obsidian or other crystals is also a good analogy. Thoughts start in an ocean
 Sometimes thoughts go through high pressure and high temperature and form a hard core, tightly packed little spec of wonder - diamond, that shines brightly under the sun.
 
 ---
+Links:
+- [Folder: docs](/docs/): most of my blogs
+- [Daily Rambling](/tags/ramblings): most of my blogs are me rambling about things
+
+---
 A more logical website with the generative temperature turned down: [Work Stuff (gr-grey.github.io)](https://gr-grey.github.io/workSite/).
