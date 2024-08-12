@@ -8,6 +8,34 @@ tags:
 
  每天随便写点啥，写不出来的话就抄点啥。
 
+Q：[辩论中一句话把对方打趴下的逻辑是怎样的？](https://www.zhihu.com/question/24813021/answer/29192878)
+
+> [@刘海马](https://www.zhihu.com/people/f308f0c4e9ef837c9f5e6056fa475bf8)
+> 
+>  ：请对方辩友闭嘴。
+
+----
+2024-06-27
+
+> If the path in front of you is clear, it's probably someone else's. <br>
+> --- *Carl Jung*
+
+----
+2024-06-26
+
+Let things go, let people go. The important ones will find their ways back to you.
+
+Every time you let love go, at some point it comes back, like magic, it always does.
+But it only comes back if you don't worry about it, and if you don't put pressure on it.
+ 
+---
+2024-06-04
+
+Q：[你知道哪些关于交响乐团乐手的趣闻？](https://www.zhihu.com/question/20607366/answer/15619316)
+
+> [@李轩](https://www.zhihu.com/people/4b69ab8b5226fbade1c9a8c27d4e4284)
+>  ：某乐团分谱上有标记「此小节低头」，新来的乐手不明白什么意思，就没有做，结果...被后边的长号戳到脑袋
+
 ---
 2024-05-05
 
