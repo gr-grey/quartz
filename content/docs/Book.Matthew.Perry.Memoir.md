@@ -2,7 +2,7 @@
 title: Matthew Perry Memoir
 date: 2024-08-12
 description: ""
-tags:
+tags: ramblings
 ---
 I listened to Matthew Perry's book: *Friends, Lovers and The Big Terrible Thing*.
 
