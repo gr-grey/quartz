@@ -8,6 +8,18 @@ tags:
 
  每天随便写点啥，写不出来的话就抄点啥。
 
+2024-08-14
+-----
+
+> The voice within is what I'm married to.
+> All marriage is a metaphor for that marriage. <br>
+> My lover is the place inside me where an honest yes or no comes from.
+> That's my true partner. It's always there. <br>
+> And to tell you yes when my integrity says no is to divorce that partner. <br>
+> ---- Byron Katie, *I need your love, is that true?*
+
+----
+2024-08-12
 Q：[辩论中一句话把对方打趴下的逻辑是怎样的？](https://www.zhihu.com/question/24813021/answer/29192878)
 
 > [@刘海马](https://www.zhihu.com/people/f308f0c4e9ef837c9f5e6056fa475bf8)
