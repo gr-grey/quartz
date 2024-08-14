@@ -18,38 +18,37 @@ tags:
 > And to tell you yes when my integrity says no is to divorce that partner. <br>
 > ---- Byron Katie, *I need your love, is that true?*
 
-----
 2024-08-12
+----
 Q：[辩论中一句话把对方打趴下的逻辑是怎样的？](https://www.zhihu.com/question/24813021/answer/29192878)
 
 > [@刘海马](https://www.zhihu.com/people/f308f0c4e9ef837c9f5e6056fa475bf8)
 > 
 >  ：请对方辩友闭嘴。
 
-----
 2024-06-27
-
+----
 > If the path in front of you is clear, it's probably someone else's. <br>
 > --- *Carl Jung*
 
-----
 2024-06-26
+----
 
 Let things go, let people go. The important ones will find their ways back to you.
 
 Every time you let love go, at some point it comes back, like magic, it always does.
 But it only comes back if you don't worry about it, and if you don't put pressure on it.
  
----
 2024-06-04
+---
 
 Q：[你知道哪些关于交响乐团乐手的趣闻？](https://www.zhihu.com/question/20607366/answer/15619316)
 
 > [@李轩](https://www.zhihu.com/people/4b69ab8b5226fbade1c9a8c27d4e4284)
 >  ：某乐团分谱上有标记「此小节低头」，新来的乐手不明白什么意思，就没有做，结果...被后边的长号戳到脑袋
 
----
 2024-05-05
+---
 
 Q: [怎么做四菜一汤得罪所有人？](https://www.zhihu.com/question/562044820/answer/2737527678)
 
@@ -101,13 +100,13 @@ Q：[自己练习美声要注意什么问题？](https://www.zhihu.com/question/
 
 > @知乎用户ZqQV9V ：要注意邻居。
 
----
 2024-05-01
+---
 
 If you are stress eating. Work on the stress, not eating.
 
----
 2024-04-29
+---
 
 > [!quote] 网易云热评《summertime》  
 > 我要做最甜的女生  
@@ -121,8 +120,8 @@ If you are stress eating. Work on the stress, not eating.
 > [!quote] 网易云热评《summertime》  
 > 女孩子千万不要夜跑 太危险了 要是遇到烧烤摊就完了。  
 
----
 2024-04-24
+---
 
 神翻译：
 
@@ -135,21 +134,21 @@ No, I'm serious.
 *不，我是希尔瑞斯。*
 
 
----
 2024-04-17
+---
 
 跟喜欢的人表达心意：
 
 你是程序，我就是屏幕，因为*屏幕保护程序*。
 
----
 2024-04-16
+---
 
 > [!quote] Blade Runner 2049
 > All those moments will be lost in time, *like tears in rain*.
 
----
 2024-04-15
+---
 
 早上做了个梦，梦里在播放杰伦的外婆mv。
 
@@ -161,8 +160,8 @@ No, I'm serious.
 
 他脚踩在踩在录音板上，头那边为了要够到麦需要保持一个特定的身体倾斜的姿势，撑着这个姿势很久，我感叹不愧是专业啊。周围很多围观群众，他说上次这么搞的时候还顺便卖了两百万的关东煮。  
  
----
 2024-04-14
+---
 
 > [!quote] 你在烦恼什么
 > 没有不会淡的疤 没有不会好的伤 <br>
@@ -174,15 +173,15 @@ No, I'm serious.
 > 我想你 依然错得很过瘾<br>
 > *---五月天*
 
----
 2024-04-12
+---
 
 > [!quote] 一个女生怎样才算见过世面
 >  世面，直译就是worldsheet，指的是弦在时空中扫过的二维流形。所以一个女生，学过弦论，才算是见过世面。<br>
 >  *--- 知乎日报，瞎扯：如何正确地吐槽*
 
----
 2024-04-11
+---
 
 > [!quote] 在他乡
 > 等到老去那一天 <br>
@@ -194,8 +193,8 @@ No, I'm serious.
 老笑话一则：
 > 从前有个人叫小明，小明没听见。
 
-----
 2024-04-09
+----
 
 Description of the solar eclipse yesterday from the Daily Show:
 
