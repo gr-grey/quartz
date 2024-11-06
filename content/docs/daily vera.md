@@ -8,6 +8,21 @@ tags:
 
  每天随便写点啥，写不出来的话就抄点啥。
 
+2024-09-10
+----
+
+Q：[男生什么样的行为让你觉得很没有安全感？](https://www.zhihu.com/question/37980485/answer/82066730)
+
+> [@殷末箫](https://www.zhihu.com/people/58c357b7702e77328290e6eb0b45a41e)
+> 
+>  ：实验操作不规范。
+
+Q：[为什么人有时候思考会仰起头向上看？](https://www.zhihu.com/question/21007115/answer/16875580)
+
+> [@呼噜Leon](https://www.zhihu.com/people/f826aa8876d2cbcb776b90dfefd77162)
+> 
+>  ：云计算。
+
 2024-08-14
 -----
 
